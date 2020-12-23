@@ -24,3 +24,10 @@ news범주 구분
     <a href="https://raw.githubusercontent.com/nowage/newsBert/main/pytorch_kobert_save.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
   </td>
 </table>
+
+
+# 사용법
+
+# PreRequirement
+
+
