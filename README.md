@@ -3,7 +3,7 @@ news범주 구분
 
 * Colab파일
 [pytorch_kobert_save.ipynb 코랩에서 보기](https://colab.research.google.com/github/nowage/newsBert/blob/main/pytorch_kobert_save.ipynb)
-
+<html>
 <table class="tfo-notebook-buttons" align="left">
 <!--   <td>
     <a target="_blank" href="https://www.tensorflow.org/tutorials/text/word_embeddings">
@@ -25,7 +25,9 @@ news범주 구분
   </td>
 </table>
 <br>
+</html>
 
+---
 # 사용법
 
 # PreRequirement
