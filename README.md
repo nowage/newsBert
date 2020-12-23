@@ -5,11 +5,11 @@ news범주 구분
 [pytorch_kobert_save.ipynb 코랩에서 보기](https://colab.research.google.com/github/nowage/newsBert/blob/main/pytorch_kobert_save.ipynb)
 
 <table class="tfo-notebook-buttons" align="left">
-  <td>
+<!--   <td>
     <a target="_blank" href="https://www.tensorflow.org/tutorials/text/word_embeddings">
     <img src="https://www.tensorflow.org/images/tf_logo_32px.png" />
     View on TensorFlow.org</a>
-  </td>
+  </td> -->
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/nowage/newsBert/blob/main/pytorch_kobert_save.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />
