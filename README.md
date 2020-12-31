@@ -11,7 +11,7 @@ news범주 구분
     View on TensorFlow.org</a>
   </td> -->
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/nowage/newsBert/blob/main/pytorch_kobert_train_test.ipynb.ipynb">
+    <a target="_blank" href="https://colab.research.google.com/github/nowage/newsBert/blob/main/pytorch_kobert_train_test.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />
     Run in Google Colab</a>
   </td>
@@ -39,6 +39,7 @@ news범주 구분
 # 결과
 ![](result.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTM1MzAzMiw2ODc1OTEwMjAsLTEzOD
-QwMTQ0NDIsMTQ2OTE3NTUzLC0yNDU4NDg0NDVdfQ==
+eyJoaXN0b3J5IjpbMjA2NTI4MzMyOCwxNDU1MzUzMDMyLDY4Nz
+U5MTAyMCwtMTM4NDAxNDQ0MiwxNDY5MTc1NTMsLTI0NTg0ODQ0
+NV19
 -->
