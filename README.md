@@ -16,12 +16,12 @@ news범주 구분
     Run in Google Colab</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/nowage/newsBert/blob/main/pytorch_kobert_save.ipynb">
+    <a target="_blank" href="https://github.com/nowage/newsBert/blob/main/pytorch_kobert_train_test.ipynb">
     <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />
     View source on GitHub</a>
   </td>
   <td>
-    <a href="https://raw.githubusercontent.com/nowage/newsBert/main/pytorch_kobert_save.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
+    <a href="https://raw.githubusercontent.com/nowage/newsBert/main/pytorch_kobert_train_test.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
   </td>
 </table>
 <br>
@@ -29,15 +29,16 @@ news범주 구분
 
 ---
 # 사용법
-* /content/drive/MyDrive/Lec_Capture/_dataNLP/news.tsv 위치에 tsv파일 가져다 놓고 실행.
+* /content/drive/MyDrive/ 위치에 news_train.tsv, news_test.tsv 파일 가져다 놓고 실행.
 
 
 # PreRequirement
 * 구글 Colab에서 작동함.
 
 
-
+# 결과
+![](result.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQwMTQ0NDIsMTQ2OTE3NTUzLC0yND
-U4NDg0NDVdfQ==
+eyJoaXN0b3J5IjpbNjg3NTkxMDIwLC0xMzg0MDE0NDQyLDE0Nj
+kxNzU1MywtMjQ1ODQ4NDQ1XX0=
 -->
