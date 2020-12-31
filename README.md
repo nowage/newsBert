@@ -29,7 +29,15 @@ news범주 구분
 
 ---
 # 사용법
+* /content/drive/MyDrive/Lec_Capture/_dataNLP/news.tsv 위치에 tsv파일 가져다 놓고 실행.
+
 
 # PreRequirement
+* 구글 Colab에서 작동함.
 
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzODQwMTQ0NDIsMTQ2OTE3NTUzLC0yND
+U4NDg0NDVdfQ==
+-->
